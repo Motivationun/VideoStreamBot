@@ -24,8 +24,8 @@ buttons = [
                 InlineKeyboardButton("🚨 Help & Commands 🚨", callback_data="help"),
             ],
             [
-                InlineKeyboardButton("👥 Support", url="https://t.me/zautebot"),
-                InlineKeyboardButton("Channel 📢", url="https://t.me/TGBotsProJect"),
+                InlineKeyboardButton("👥 Support", url="https://t.me/InTeRnAtIoNaLUnIQuEFrIeNdSs"),
+                InlineKeyboardButton("Channel 📢", url="https://t.me/INTERNATIONALFRDS"),
             ],
             [
                 InlineKeyboardButton("🤖 Deploy your Own Bot 🤖", url="https://heroku.com/deploy?template=https://github.com/ZauteKm/VideoStreamBot/tree/master"),
@@ -47,7 +47,7 @@ async def search(client, query):
                 title="Deploy Own Video Stream Bot",
                 thumb_url="https://telegra.ph/file/117de96dbfbfea2ce59a6.png",
                 photo_url="https://telegra.ph/file/117de96dbfbfea2ce59a6.png",
-                caption=f"{Config.REPLY_MESSAGE}\n\n<b>© Powered By : \n@ZauteKm | @ZauteBot 🧑‍🔧</b>",
+                caption=f"{Config.REPLY_MESSAGE}\n\n<b>© Powered By : \n@InTeRnAtIoNaLUniQuEFrIeNdSs | @InTeRnAtIoNaLUniQuEFrIeNdSs 🧑‍🔧</b>",
                 reply_markup=InlineKeyboardMarkup(buttons)
                 )
             )
