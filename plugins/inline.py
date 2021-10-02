@@ -45,8 +45,8 @@ async def search(client, query):
         answers.append(
             InlineQueryResultPhoto(
                 title="Deploy Own Video Stream Bot",
-                thumb_url="https://telegra.ph/file/117de96dbfbfea2ce59a6.png",
-                photo_url="https://telegra.ph/file/117de96dbfbfea2ce59a6.png",
+                thumb_url="https://te.legra.ph/file/5154c456e4913f7932cf6.png",
+                photo_url="https://te.legra.ph/file/5154c456e4913f7932cf6.png",
                 caption=f"{Config.REPLY_MESSAGE}\n\n<b>© Powered By : \n@InTeRnAtIoNaLUniQuEFrIeNdSs | @InTeRnAtIoNaLUniQuEFrIeNdSs 🧑‍🔧</b>",
                 reply_markup=InlineKeyboardMarkup(buttons)
                 )
