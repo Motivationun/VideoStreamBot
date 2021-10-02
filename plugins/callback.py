@@ -155,7 +155,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("Channel 📢", url="https://t.me/INTERNATIONALFRDS"),
             ],
             [
-                InlineKeyboardButton("�CHAT GROUP", url="https://t.me/InTeRnAtIoNaLUnIQuEFrIeNdSs"),
+                InlineKeyboardButton("TO CHAT", url="https://t.me/InTeRnAtIoNaLUnIQuEFrIeNdSs"),
                 InlineKeyboardButton("Source Code 🔰", url="https://github.com/ZauteKm/VideoStreamBot/tree/master"),
             ],
             [
@@ -182,7 +182,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("Channel 📢", url="https://t.me/INTERNATIONALFRDS"),
             ],
             [
-                InlineKeyboardButton("CHAT GROUP", url="https://t.me/InTeRnAtIoNaLUnIQuEFrIeNdSs"),
+                InlineKeyboardButton("TO CHAT", url="https://t.me/InTeRnAtIoNaLUnIQuEFrIeNdSs"),
                 InlineKeyboardButton("Source Code 🔰", url="https://github.com/ZauteKm/VideoStreamBot/tree/master"),
             ],
             [
