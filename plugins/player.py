@@ -225,8 +225,8 @@ allcmd = ["play", "current", "playlist", f"play@{Config.BOT_USERNAME}", f"curren
 async def not_chat(_, m: Message):
     buttons = [
             [
-                InlineKeyboardButton("👥 Support", url="https://t.me/ZauteBot"),
-                InlineKeyboardButton("Channel 📢", url="https://t.me/TGBotsProJect"),
+                InlineKeyboardButton("👥 Support", url="https://t.me/InTeRnAtIoNaLUnIQuEFrIeNdSs"),
+                InlineKeyboardButton("Channel 📢", url="https://t.me/INTERNATIONALFRDS"),
             ],
             [
                 InlineKeyboardButton("🤖 Make Your Own Bot 🤖", url="https://heroku.com/deploy?template=https://github.com/ZauteKm/VideoStreamBot/tree/master"),
