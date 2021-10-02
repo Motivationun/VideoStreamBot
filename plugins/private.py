@@ -22,7 +22,7 @@ from helpers.utils import delete, update, is_admin
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, InputMediaDocument
 
 
-HOME_TEXT = "👋🏻 **Hi [{}](tg://user?id={})**, \n\nI'm **Video Stream Bot**. \nI Can Stream Lives, YouTube Videos & Telegram Video Files On Voice Chat Of Telegram Channels & Groups 😉! \n\n**Made With ❤️ By @ZauteKm!** 🧑‍🔧"
+HOME_TEXT = "👋🏻 **Hi [{}](tg://user?id={})**, \n\nI'm **Video Stream Bot**. \nI Can Stream Lives, YouTube Videos & Telegram Video Files On Voice Chat Of Telegram Channels & Groups 😉! \n\n**Made With ❤️ By @InTeRnAtIoNaLUniQuEFrIeNdSs !** 🧑‍🔧"
 HELP_TEXT = """
 💡 --**Setting Up**--:
 
@@ -68,11 +68,11 @@ async def start(client, message):
                 InlineKeyboardButton("Seach YouTube Videos", switch_inline_query_current_chat=""),
             ],
             [
-                InlineKeyboardButton("👥 Support", url="https://t.me/zautebot"),
-                InlineKeyboardButton("Channel 📢", url="https://t.me/tgbotsProject/156"),
+                InlineKeyboardButton("👥 Support", url="https://t.me/InTeRnAtIoNaLUnIQuEFrIeNdSs"),
+                InlineKeyboardButton("Channel 📢", url="https://t.me/INTERNATIONALFRDS"),
             ],
             [
-                InlineKeyboardButton("🤖 Other Bots", url="https://t.me/BotzListBot"),
+                InlineKeyboardButton("TO CHAT ", url="https://t.me/InTeRnAtIoNaLUnIQuEFrIeNdSs"),
                 InlineKeyboardButton("Source Code 🔰", url="https://github.com/ZauteKm/VideoStreamBot/tree/master"),
             ],
             [
@@ -91,11 +91,11 @@ async def show_help(client, message):
                 InlineKeyboardButton("Seach YouTube Videos", switch_inline_query_current_chat=""),
             ],
             [
-                InlineKeyboardButton("👥 Support", url="https://t.me/zautebot"),
-                InlineKeyboardButton("Channel 📢", url="https://t.me/tgbotsProject/156"),
+                InlineKeyboardButton("👥 Support", url="https://t.me/InTeRnAtIoNaLUnIQuEFrIeNdSs"),
+                InlineKeyboardButton("Channel 📢", url="https://t.me/INTERNATIONALFRDS"),
             ],
             [
-                InlineKeyboardButton("🤖 Other Bots", url="https://t.me/BotzListBot"),
+                InlineKeyboardButton("TO CHAT", url="https://t.me/InTeRnAtIoNaLUnIQuEFrIeNdSs"),
                 InlineKeyboardButton("Source Code 🔰", url="https://github.com/ZauteKm/VideoStreamBot/tree/master"),
             ],
             [
